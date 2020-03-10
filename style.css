@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: lightblue ;
+    font-family: cursive;
+    color: white;
+}
+
+.text_container {
+    margin-top: 5vw;
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.body_container {
+    margin: auto 0;
+    text-align: center;
+}
+
+#player1_container {
+    display: inline-block;
+    margin: 5vw 0vw;
+}
+
+#player2_container {
+    display: inline-block;
+    margin: 5vw 0vw;
+
+}
+
+h3 {
+    margin: 5vw;
+}
